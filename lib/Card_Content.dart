@@ -16,7 +16,7 @@ const BMIText_style = TextStyle(
 const body_style = TextStyle(
     color: Color(0xFFFFFFFF), fontSize: 22.0, fontWeight: FontWeight.w200);
 const bottom_card = TextStyle(
-    color: Color(0xFFFFFFFF), fontSize: 25.0, fontWeight: FontWeight.w400);
+    color: Color(0xFFFFFFFF), fontSize: 25.0, fontWeight: FontWeight.w800);
 
 class Card_Content extends StatelessWidget {
   final IconData icon;
